@@ -1,0 +1,42 @@
+header {
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 12px;
+}
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 20px;
+}
+main{
+    line-height: 30px;
+}
+
+li span {
+    font-style: italic;
+
+}
+span {
+    font-weight: bold;
+}
+main section dl{
+    text-indent: 20px;
+}
+
+main section dl dd{
+    text-indent: 60px;
+}
+footer {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #005677;
+    gap: 10px;
+}
